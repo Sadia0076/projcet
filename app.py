@@ -29,7 +29,7 @@ from src.forecasting.forecast_3days import forecast_3_days
 # --------------------------------------------------
 st.set_page_config(
     page_title="Karachi AQI Forecast Dashboard",
-    #page_icon="🌫️",
+    page_icon="🌫️",
     layout="wide"
 )
 # --------------------------------------------------
@@ -541,5 +541,6 @@ st.markdown(f"""
     <p>🔧 Powered by: Automated | Feature Pipeline (Hourly) | Model Training (Daily)</p>
 </div>
 """, unsafe_allow_html=True)
+
 
 
