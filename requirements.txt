@@ -3,6 +3,9 @@ pandas==2.1.4
 numpy==1.26.4
 pyarrow==11.0.0
 pymongo==4.6.0
+pymongo==4.6.0
+dnspython==2.8.0
+
 
 # Machine learning
 scikit-learn==1.7.2
@@ -48,4 +51,5 @@ six==1.17.0
 protobuf==4.25.8
 pyyaml==6.0.3
 wheel==0.45.1
+
 
